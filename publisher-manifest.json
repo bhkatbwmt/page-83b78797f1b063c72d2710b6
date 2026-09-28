@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "39e6a143bc2b2d0a56e1ad03",
+  "owner": "bhkatbwmt",
+  "repo": "page-83b78797f1b063c72d2710b6",
+  "title": "魔戒",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "83b78797f1b063c72d2710b6",
+      "a": "魔戒",
+      "b": "",
+      "entity": "魔戒",
+      "brand": "魔戒",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c1218c337c4e4f29f8a2fd99bffb80dfd67cf1021063e1ffa4ecc8c6966b135e",
+      "content": {
+        "keyword1": "魔戒",
+        "keyword2": "",
+        "primary_entity": "魔戒",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "魔戒 VPN 提供稳定高速的网络加速服务，支持多种套餐和设备连接。立即体验魔戒 VPN 的优质加速体验。",
+          "AI_DESCRIPTION": "魔戒 VPN 提供稳定高速的网络加速服务，支持多种套餐和设备连接。立即体验魔戒 VPN 的优质加速体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n<style>\nbody {\n  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n  line-height: 1.6;\n  margin: 0;\n  padding: 0;\n  background-color: #f5f5f5;\n  color: #333;\n}\nmain {\n  max-width: 1200px;\n  margin: 0 auto;\n  padding: 20px;\n}\nnav {\n  background: white;\n  padding: 1rem;\n  position: sticky;\n  top: 0;\n  z-index: 10;\n}\nnav ul {\n  list-style: none;\n  padding: 0;\n  margin: 0;\n  display: flex;\n  justify-content: center;\n  gap: 20px;\n}\nnav a {\n  text-decoration: none;\n  color: #8a2be2;\n  font-weight: bold;\n}\nnav a:hover {\n  text-decoration: underline;\n}\nh1 {\n  color: #4b0082;\n  font-size: 2.5rem;\n  text-align: center;\n  margin-bottom: 0.5rem;\n}\nh2 {\n  color: #4b0082;\n  font-size: 1.8rem;\n  margin-top: 2rem;\n  margin-bottom: 1rem;\n}\n.staggered-section {\n  display: flex;\n  flex-wrap: wrap;\n  gap: 2rem;\n  margin-bottom: 3rem;\n  background: white;\n  padding: 2rem;\n  border-radius: 8px;\n  box-shadow: 0 2px 8px rgba(0,0,0,0.05);\n}\n.left-col, .right-col {\n  flex: 1 1 45%;\n  padding: 1.5rem;\n}\n.left-col {\n  background: #f0f0f0;\n}\n.right-col {\n  background: linear-gradient(135deg, #e0d4ff, #d4b8ff);\n}\n.cta {\n  background: #8a2be2;\n  color: white;\n  padding: 1rem 2rem;\n  border-radius: 4px;\n  text-align: center;\n  font-weight: bold;\n}\n.cta a {\n  color: white;\n  text-decoration: none;\n}\n.plans {\n  display: grid;\n  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n  gap: 1.5rem;\n  margin: 2rem 0;\n}\n.faq {\n  background: white;\n  border-radius: 8px;\n  overflow: hidden;\n  box-shadow: 0 2px 8px rgba(0,0,0,0.05);\n}\ndetails {\n  padding: 1rem;\n  border-bottom: 1px solid #eee;\n}\ndetails:last-child {\n  border-bottom: none;\n}\nsummary {\n  font-weight: bold;\n  cursor: pointer;\n  list-style: none;\n}\nsummary::-webkit-details-marker {\n  display: none;\n}\n</style>\n\n\n<main>\n<nav>\n<ul>\n<li><a href=\"#intro\">首页</a></li>\n<li><a href=\"#plans\">套餐</a></li>\n<li><a href=\"#how\">配置流程</a></li>\n<li><a href=\"#faq\">常见问题</a></li>\n</ul>\n</nav>\n<h1>魔戒</h1>\n<section id=\"intro\" class=\"staggered-section\">\n<div class=\"left-col\">\n<h2>品牌简介</h2>\n<p>魔戒 VPN 致力于为用户提供稳定、高速的全球网络加速服务，让您的网络连接更加顺畅和可靠。</p>\n</div>\n<div class=\"right-col\">\n<h2>配置流程</h2>\n<p>简单快捷的配置流程，让您快速体验加速服务。</p>\n<a href=\"#how\" class=\"cta\">了解配置流程</a>\n</div>\n</section>\n<section>\n<h2>使用场景</h2>\n<p>魔戒 VPN 适用于需要稳定连接的各种场景，包括在线视频观看、在线游戏、远程办公以及日常网络加速需求。</p>\n</section>\n<section id=\"how\" class=\"staggered-section\">\n<div class=\"left-col\">\n<h2>操作说明</h2>\n<p>订阅套餐后，通过下载客户端登录账号，选择节点即可享受加速服务。支持多设备同时在线，提升工作和娱乐效率。</p>\n</div>\n<div class=\"right-col\">\n<h2>立即开始</h2>\n<p>选择合适的套餐，开启您的网络加速之旅。</p>\n<a href=\"#plans\" class=\"cta\">查看套餐详情</a>\n</div>\n</section>\n<section id=\"plans\">\n<h2>我们的套餐</h2>\n{{PLANS_HTML}}\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<div class=\"faq\">\n<details>\n<summary>什么是魔戒 VPN？</summary>\n魔戒 VPN 是一款专注于全球网络加速的VPN服务，提供稳定高速的连接体验。\n</details>\n<details>\n<summary>魔戒 VPN 支持哪些设备？</summary>\n不同套餐支持不同数量的设备同时在线，基础版支持3台，旗舰版支持5台，团队版支持20台。\n</details>\n<details>\n<summary>魔戒 VPN 如何解锁流媒体？</summary>\n基础版可解锁基础流媒体，旗舰版支持全节点原生流媒体解锁。\n</details>\n<details>\n<summary>如何获得游戏加速优化？</summary>\n旗舰版提供 IPLC 专线游戏加速优化，团队版支持企业定制路由。\n</details>\n<details>\n<summary>订阅后如何获得支持？</summary>\n团队版提供 7x24 优先工单支持和专属客户经理服务。\n</details>\n<details>\n<summary>魔戒 VPN 的配置流程是怎样的？</summary>\n首先订阅套餐，下载客户端，登录账号，选择节点连接，即可完成配置。\n</details>\n</div>\n</section>\n<section id=\"clients\">\n<h2>支持的客户端</h2>\n{{CLIENTS_HTML}}\n</section>\n</main>\n\n",
+          "hash": "6213acc7b3b6051012b11c34321c01c2d9ded32940253d54d90f9e51a4c89c04",
+          "seo": {
+            "title": "魔戒 VPN | 全球网络加速器 | 客户端下载",
+            "keywords": "魔戒, VPN, 加速器, 机场, 客户端下载",
+            "description": "魔戒 VPN 提供稳定高速的网络加速服务，支持多种套餐和设备连接。立即体验魔戒 VPN 的优质加速体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "quanshanrc.cn",
+    "host": "web.quanshanrc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "quanshanrc.cn",
+      "url": "https://quanshanrc.cn/",
+      "label": "YukiMo",
+      "apex": "quanshanrc.cn",
+      "kind": null,
+      "identity": "ju79qjwha/page-20bffdf002182cdd96a4585e"
+    },
+    {
+      "host": "999ew.cn",
+      "url": "https://999ew.cn/",
+      "label": "魔戒",
+      "apex": "999ew.cn",
+      "kind": null,
+      "identity": "vxspeg9bv/page-0b84603d0eb599eaf789f1cd"
+    },
+    {
+      "host": "bggdjp.cn",
+      "url": "https://bggdjp.cn/",
+      "label": "魔戒",
+      "apex": "bggdjp.cn",
+      "kind": null,
+      "identity": "pwk8xwvp/page-6c4e6880f26af3a8a6cfcca5"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "598dc4d2eea719a0dfa241a08da9311497516cd486a3ece18d6803921adb53fe",
+    "sitemap.xml": "1e66fb9353d1a41ddd149e510fef60e9643bd00bb6bbf3bbf74732e5ae79af76",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6831a5be8428ff5ff87b3db4dbb3fa69f7e060a94c0f648f9a520b72c652ee7d",
+    "robots.txt": "9782650f6670ed760a1267f1df4429940cc0b0b3aa8c2998447d08c9e79aba40",
+    "a0290db6e8788fe1dbfa7525979b09a6.txt": "d37f050e6feb33f6b2cf4d0aff0232980603d57639b1169526d8f4547683a2c4"
+  },
+  "revision": "054dacb50866ea7a3aff092d4b28123d7ac571ae6944c388c0ff0051b5e1fbf1"
+}
